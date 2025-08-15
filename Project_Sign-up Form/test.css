@@ -1,5 +1,0 @@
-.test {
-    width: clamp(100px, 200px, 60%);
-    height: 200px;
-    border:solid;
-}
