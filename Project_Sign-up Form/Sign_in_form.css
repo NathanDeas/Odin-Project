@@ -8,6 +8,7 @@
 }
 html {
     overflow-x: hidden;
+    background-color: #252222;
 }
 .page_container{
     height: fit-content;
@@ -19,7 +20,6 @@ html {
 .page_graphic {
     background-image: url(Images/Lake.jpg);
     height: 100vh;
-    position: fixed;
     min-width: 40vw;
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,14 +30,14 @@ html {
     position: relative;
     background-color: #252222a8;
     top: 10%;
-    padding: 10px;
+    padding: 1vw;
     text-align: center;
     overflow:hidden;
 }
 .name_container h1 {
-    letter-spacing: 20px;
+    letter-spacing: 1vw;
     color: white;
-    font-size: 6rem;
+    font-size: 5vw;
     font-family: "Rubik Dirt", system-ui;
     font-weight: 500;
     font-style: normal;
